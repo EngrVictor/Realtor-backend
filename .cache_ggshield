@@ -1,0 +1,1 @@
+{"last_found_secrets": [{"name": "MongoDB Credentials - configs/mongoose.js", "match": "b38878b9b389a6fe15ef201cf8bd9553783bd1abb2739a4029199ff6313a63c9"}, {"name": "Generic High Entropy Secret - node_modules/debug/.coveralls.yml", "match": "85cf2dd83d7b8fee96ee18df3829ecdd639c66c0ef6276b44ed7328f2d83079f"}]}
